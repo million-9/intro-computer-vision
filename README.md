@@ -4,21 +4,7 @@
 Welcome to the Introduction to Computer Vision repository! This collection comprises exercises and implementations from the Computer Vision course at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). The assignments are designed to provide hands-on experience with fundamental computer vision techniques using Python and OpenCV.
 
 🗂️ Repository Structure
-css
-Copy
-Edit
-intro-computer-vision/
-├── introduction/
-│   ├── main/
-│   │   ├── main.py
-│   │   ├── loadnsave.py
-│   │   └── ...
-│   └── resources/
-│       ├── img1.jpg
-│       ├── img2.jpg
-│       └── ...
-├── README.md
-└── requirements.txt
+
 introduction/main/: Contains the main scripts for loading, displaying, saving, and processing images.
 
 introduction/resources/: Includes sample images used for testing and demonstration purposes.
@@ -26,6 +12,7 @@ introduction/resources/: Includes sample images used for testing and demonstrati
 requirements.txt: Lists the Python dependencies required to run the scripts.
 
 🧪 Implemented Functions
+
 1. Image Loading and Display
 show_images(images, window_names=None):
 Displays a list of images in separate OpenCV windows. The program waits until a key is pressed before closing all windows.
