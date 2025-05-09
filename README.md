@@ -9,8 +9,6 @@ introduction/main/: Contains the main scripts for loading, displaying, saving, a
 
 introduction/resources/: Includes sample images used for testing and demonstration purposes.
 
-requirements.txt: Lists the Python dependencies required to run the scripts.
-
 🧪 Implemented Functions
 
 1. Image Loading and Display
@@ -30,20 +28,7 @@ Separates each image into its Blue, Green, and Red channels. Returns a list wher
 
 🛠️ Getting Started
 Prerequisites
-Ensure you have Python 3.x installed. Install the required packages using pip:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Running the Scripts
-Navigate to the introduction/main/ directory and run the main.py script:
-
-bash
-Copy
-Edit
-python main.py
-This will execute the image processing functions using the sample images provided in the resources folder.
+Ensure you have Python 3.x installed. Install the required packages
 
 📁 Sample Images
 The resources folder contains sample images used to test and demonstrate the implemented functions. You can replace these with your own images as needed.
