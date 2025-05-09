@@ -17,14 +17,14 @@ requirements.txt: Lists the Python dependencies required to run the scripts.
 show_images(images, window_names=None):
 Displays a list of images in separate OpenCV windows. The program waits until a key is pressed before closing all windows.
 
-save_images(images, filenames, folder='resources'):
+2.save_images(images, filenames, folder='resources'):
 Saves a list of images to the specified folder with the given filenames.
 
-2. Image Resizing
+3. Image Resizing
 scale_down(images):
 Resizes each image in the provided list by a factor of 0.5 in both width and height using OpenCV's resize function.
 
-3. Color Channel Separation
+4. Color Channel Separation
 separate_channels(images):
 Separates each image into its Blue, Green, and Red channels. Returns a list where each element is a list of three images corresponding to the individual color channels.
 
