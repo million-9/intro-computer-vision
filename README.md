@@ -15,7 +15,7 @@ introduction/resources/: Includes sample images used for testing and demonstrati
 show_images(images, window_names=None):
 Displays a list of images in separate OpenCV windows. The program waits until a key is pressed before closing all windows.
 
-2.save_images(images, filenames, folder='resources'):
+2. Save_images(images, filenames, folder='resources'):
 Saves a list of images to the specified folder with the given filenames.
 
 3. Image Resizing
