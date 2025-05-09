@@ -47,6 +47,3 @@ This will execute the image processing functions using the sample images provide
 
 📁 Sample Images
 The resources folder contains sample images used to test and demonstrate the implemented functions. You can replace these with your own images as needed.
-
-🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
