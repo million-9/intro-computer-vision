@@ -1,4 +1,6 @@
 📷 Introduction to Computer Vision
+
+
 Welcome to the Introduction to Computer Vision repository! This collection comprises exercises and implementations from the Computer Vision course at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). The assignments are designed to provide hands-on experience with fundamental computer vision techniques using Python and OpenCV.
 
 🗂️ Repository Structure
